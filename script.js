@@ -1,6 +1,6 @@
 const questions = [
     {
-        questions: "Is GitHub any good?",
+        questions: "Is Arabic a hard language?",
         answers: [
             { text: "No", correct: true},
             { text: "Maybe", correct: false},
